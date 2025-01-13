@@ -1,0 +1,18 @@
+/* src/components/PopularStories.css */
+.popular-stories-banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55vh;
+    background-image: 
+        linear-gradient(
+            rgba(0, 0, 0, 0.5), /* Gradient overlay with opacity */
+            rgba(0, 0, 0, 0.5)
+        ),
+        url('/public/Assets/images/popular-stories-banner.jpg');  /* Background image */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    padding: 20px;
+}
