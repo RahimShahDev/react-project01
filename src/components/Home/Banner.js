@@ -6,7 +6,7 @@ const Home = () => {
     <>
       <div
         className="relative flex justify-center items-center bg-cover bg-center bg-fixed"
-        style={{ backgroundImage: "url('/Assets/images/banner.webp')" }}
+        style={{ backgroundImage: "url('/public/assets/images/banner.webp')" }}
 
       >
         <div className="absolute inset-0 bg-black bg-opacity-50" />

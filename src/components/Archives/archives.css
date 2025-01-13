@@ -9,7 +9,7 @@
             rgba(0, 0, 0, 0.5), /* Gradient overlay with opacity */
             rgba(0, 0, 0, 0.5)
         ),
-        url('/public/Assets/images/profile.jpg'); 
+        url('/public/assets/images/profile.jpg'); 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
